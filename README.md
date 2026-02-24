@@ -46,6 +46,6 @@ For example, the dashboard highlights that a small group of products contributes
 
 ..A sales manager wants to understand which chocolate products are generating the highest revenue and in which countries sales are strongest. Using this Power BI dashboard, the manager can quickly view monthly sales trends, identify top-performing products, compare country-wise performance, and evaluate salesperson contributions. This helps the business focus on high-demand products, improve sales strategies, and make data-driven decisions.
 
-6. Screenshots / Demos:chocolate sales dashboard
-![Dashboard Preview](./Power-BI/chocolate sales dashboard.png)
+7.Dashboard Preview:
+![My Dashboard]_(Power-BI/chocolate sales dashboard.png)
 
